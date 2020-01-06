@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d90527f8-664e-4563-a2b0-e1978fac493f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VO5sAluutBflhwlC152bcrhw5q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mavenTwo" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Maven.MavenRun">
+    <configuration name="MavenThree" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MavenThree" />
+      <module name="MavenThree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MavenRun" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+                <option value="install" />
+                <option value="exec:java" />
+                <option value="-Dexec.mainClass=MavenThree" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.MavenThree" />
+      <item itemvalue="Maven.MavenRun" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d90527f8-664e-4563-a2b0-e1978fac493f" name="Default Changelist" comment="" />
+      <created>1577111504460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577111504460</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="231" y="3" key="#Project_Structure" timestamp="1577676201679">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="231" y="3" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1577676201679" />
+    <state x="371" y="98" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1577245123075">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="98" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1577245123075" />
+    <state x="93" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577847835226">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1577847835226" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577247355633">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1577247355633" />
+    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1577676175943">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1577676175943" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1577850605260">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577850605260" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1577850605260">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577850605260" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1577850605260">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577850605260" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1577850605260">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577850605260" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1577678320540">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577678320540" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1577678320540">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1577678320540" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1577678320540">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1577678320540" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1577678320540">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1577678320540" />
+    <state x="349" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1577414704763">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1577414704763" />
+  </component>
+</project>
